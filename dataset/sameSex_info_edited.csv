@@ -1,0 +1,6 @@
+country,continent,sameSex_partnership,sameSex_marriage,sameSex_marriage_date,civil_partnership,civil_partnership_date,joint_adoption,joint_adoption_date,joint_adoption_legality,second_parent_adoption,secParent_adoption_legality,secParent_adoption_date,adoption_by_single
+Denmark,Europe,YES,YES,2012,NA,1989,YES,2010,Legislative,YES,Legislative,1999,YES
+Estonia,Europe,YES,NO,NA,YES,2016,NO,NA,NA,YES,Legislative,2016,YES
+Germany,Europe,YES,YES,2017,NA,2001,YES,2017,Legislative,YES,Legislative,2005,YES
+Greece,Europe,YES,NO,NA,YES,2016,NO,NA,NA,NO,NA,NA,YES
+Hungary,Europe,YES,NO,NA,YES,2009,NO,NA,NA,NO,NA,NA,Special Cases
